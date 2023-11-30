@@ -1,1 +1,1 @@
-Chat operateed frontend Intelligence
+Chat operated frontend Intelligence
