@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import InputForm from './InputForm';
 import Result from './Result';
-import { pangramCheck } from './PangramUtils'; // Importing the pangramCheck function
+import { pangramCheck } from '../PangramUtils'; // Importing the pangramCheck function
 
 function App() {
     const [sentence, setSentence] = useState('');

@@ -8,8 +8,9 @@
     "pkg": "pkg ./dist"
   },
   "bin": {
-    "chat-cofi": "./node_modules/main.js" 
+    "chat-cofi": "./dist/main.js" 
   },
+  "main": "src/main.tsx",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
